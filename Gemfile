@@ -19,6 +19,12 @@ gem 'trix', '~> 0.9.0'
 gem 'fog-aws'
 gem 'mp3_player'
 
+gem 'bootstrap-sass', '~> 3.3.6'
+
+gem 'font-awesome-rails' # Font-awesome icon
+
+gem 'bootstrap-will_paginate', '~> 1.0'
+
 
 gem 'friendly_id', '~> 5.1'
 
